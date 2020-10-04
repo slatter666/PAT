@@ -1,2 +1,2 @@
 # Daily-practice
-This repository is used to store my daily practicing node
+This repository is used to store PAT practicing node
